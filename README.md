@@ -8,6 +8,8 @@ This project demonstrates how to control a 28BYJ-48 stepper motor using an ILI93
 This project utilizes a low-cost 28BYJ-48 stepper motor, the powerful ESP32-S3 development board, and an ILI9341 touch display to create a user-friendly stepper motor control system. 
 The touchscreen interface allows for easy adjustment of the motor's speed (within a 0-100 range) and direction, as well as a simple start/stop functionality.
 
+video : https://youtu.be/Szm2ziKMi20
+
 ## Hardware Used
 
 * **Microcontroller:** ESP32-S3
